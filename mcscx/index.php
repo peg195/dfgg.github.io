@@ -1,10 +1,10 @@
 <?php
 // 原作者为MCNewsTools，由GamerNoTitle二次修改，模板套用的HTML5UP的HTML模板，请在使用该程序的时候不要删除版权信息，Thanks♪(･ω･)ﾉ！
-$host = "play.zl.cn.eu.org"; //设置服务器域名或 IP
-$port = "40043"; //设置服务器端口，可以直接用服务器的链接端口，也可以使用query端口（UDP协议）
-$name = 'ZLMC服务器'; // 服务器名字，会显示在标签页的标题和网站打头的大标题处
+$host = "by.dfggmc.eu.org"; //设置服务器域名或 IP
+$port = "56558"; //设置服务器端口，可以直接用服务器的链接端口，也可以使用query端口（UDP协议）
+$name = 'dfgg服务器'; // 服务器名字，会显示在标签页的标题和网站打头的大标题处
 $iconlink = 'https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo@1.0/AboutMe/logo-mini.png'; // 网站图标链接，可以使图片格式（.png/.jpg/etc.）或者是ico图标，用绝对路径或相对路径均可
-$description = '<a>ZLMCS在线状态查询服务，可能有时查不出来，请以实际情况为主</a>'; // 描述，会显示在大标题的下方，用html语法写就可以了，换行请用<br>
+$description = '<a>dfgg服务器状态查询</a>'; // 描述，会显示在大标题的下方，用html语法写就可以了，换行请用<br>
 $imagelink = 'https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo@1.0/AboutMe/logo-mini.png'; // 图片链接，会显示在服务器信息右边的圈圈里
 /*
 $host = $_GET["host"];
